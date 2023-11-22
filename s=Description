@@ -1,0 +1,229 @@
+[33mcommit d6817bf61aeae0fda96b7bd56d4be4d22943dfca[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Uros Cirkovic <cirkovic.uros.srb@gmail.com>
+Date:   Thu Nov 9 14:51:51 2023 +0100
+
+    feat: add intro screenshot
+
+[33mcommit bd61cce6da7c91661dd1c1dfc23649669c935776[m
+Author: Uros Cirkovic <cirkovic.uros.srb@gmail.com>
+Date:   Thu Nov 9 14:30:57 2023 +0100
+
+    feat: v2 - update starter code
+    - Update index.html and remove unused HTML elements
+    - Update the contents of the images/ folder and remove unused images
+
+[33mcommit 7c273718bac5a552f09cefeee5703fba5e9772ba[m
+Author: Uros Cirkovic <cirkovic.uros.srb@gmail.com>
+Date:   Thu Nov 9 14:29:45 2023 +0100
+
+    feat: v2 - update README
+    - Simplify iteration instructions and remove some of the sections and tasks
+    - Update preview links and screenshot images
+    - Update introduction
+    - Update iteration 3 to be bonus
+
+[33mcommit 6f8e5ab8412e9b82fa9e3b637cfe0d8d50c5976d[m
+Author: Uros Cirkovic <cirkovic.uros.srb@gmail.com>
+Date:   Mon Mar 13 23:44:45 2023 +0100
+
+    Update README.md
+
+[33mcommit 60c1375e44b4626585802b31331222799aebc93a[m
+Author: sandrabosk <sandraboskovic@hotmail.com>
+Date:   Tue Mar 7 10:56:49 2023 +0100
+
+    minor grammar adjustments
+
+[33mcommit 817c59e8773433953441a1a43f6df3125a2f23b9[m
+Author: sandrabosk <sandraboskovic@hotmail.com>
+Date:   Mon Mar 6 15:08:34 2023 +0100
+
+    style adjustment
+
+[33mcommit c252faf0a199b1b07422685ef7b0d6af90176f97[m
+Author: sandrabosk <sandraboskovic@hotmail.com>
+Date:   Mon Mar 6 14:59:57 2023 +0100
+
+    minor grammar adjustments
+
+[33mcommit f60f57aef064070eb19ca88adda7528d3fd08a6c[m
+Merge: 9c339cc 7e37a55
+Author: Aleksandra Bošković <sandraboskovic@hotmail.com>
+Date:   Mon Mar 6 14:50:09 2023 +0100
+
+    Merge pull request #1744 from ironhack-labs/uros/feat/add-learning-goals
+    
+    Add Learning Goals section
+
+[33mcommit 7e37a553499025dd10498268a04381e7e1ec13c8[m
+Author: Uros Cirkovic <cirkovic.uros.srb@gmail.com>
+Date:   Thu Mar 2 13:45:56 2023 +0100
+
+    feat: add learning goals section
+
+[33mcommit 9c339cc37b922387838bdbe465e02138f26035f0[m
+Author: Uros Cirkovic <cirkovic.uros.srb@gmail.com>
+Date:   Tue Jan 10 12:22:37 2023 +0100
+
+    Update FAQs
+
+[33mcommit c169250314f1a42f3de45e563755ee51010dda79[m
+Author: Uros Cirkovic <cirkovic.uros.srb@gmail.com>
+Date:   Mon Jan 9 16:50:58 2023 +0100
+
+    Update README.md
+
+[33mcommit c99836ab15696abd2bad9887c7ad23a495442478[m
+Merge: 53c9edf 4782066
+Author: Aleksandra Bošković <sandraboskovic@hotmail.com>
+Date:   Sat Jan 7 10:41:02 2023 +0100
+
+    Merge pull request #1628 from ironhack-labs/uros/feat/add-faq-section
+    
+    Add FAQs section
+
+[33mcommit 4782066743c0a97de9fe51cf688a33fb0123685a[m
+Author: sandrabosk <sandraboskovic@hotmail.com>
+Date:   Sat Jan 7 10:39:08 2023 +0100
+
+    review, minor spelling fixes
+
+[33mcommit 0b328709b985bbf284f7f455e59cf90a48ae25dd[m
+Author: Uros Cirkovic <cirkovic.uros.srb@gmail.com>
+Date:   Thu Jan 5 18:03:31 2023 +0100
+
+    feat: add faqs section
+
+[33mcommit 53c9edfcb28673abf1ba9f9f8ec2ce0c3e62753e[m
+Merge: d28f2f2 305aa53
+Author: Aleksandra Bošković <sandraboskovic@hotmail.com>
+Date:   Thu Dec 8 15:51:14 2022 +0100
+
+    Merge pull request #1619 from ironhack-labs/uros/update/simplify-iterations
+    
+    Simplify lab iterations and fix grammar
+
+[33mcommit 305aa536c9261eff7eeaafcc6880c66d26e215f9[m
+Author: ross-u <cirkovic.uros.srb@gmail.com>
+Date:   Thu Dec 8 12:13:32 2022 +0100
+
+    feat: simplify lab iterations
+    - Update all Figma prototypes - remove half circle div
+    - Update all Figma screenshots - after removing half circle div
+    - Update iteration 2: Mention the requirement of using media queries
+    - Update iteration 3: Mention the requirement of using media queries
+    - Set iteration 4 as a bonus
+
+[33mcommit d28f2f2699d45a00ada3a4b5c33730253583dfaf[m
+Author: Aleksandra Bošković <sandraboskovic@hotmail.com>
+Date:   Wed Nov 2 20:00:29 2022 +0100
+
+    typos fix
+
+[33mcommit 39180c5684f49b913a42275438a7a6b746e2c21a[m
+Author: Aleksandra Bošković <sandraboskovic@hotmail.com>
+Date:   Tue Sep 13 16:43:51 2022 +0200
+
+    Update README.md
+
+[33mcommit 52b949810e0755b08e9bebf8c7433bbce863d59c[m
+Author: Aleksandra Bošković <sandraboskovic@hotmail.com>
+Date:   Tue Sep 13 16:43:14 2022 +0200
+
+    Update README.md
+
+[33mcommit 386f8fa16e4f7f171bec5ea255612d09b675adc4[m
+Author: Aleksandra Bošković <sandraboskovic@hotmail.com>
+Date:   Tue Sep 13 16:42:27 2022 +0200
+
+    Update README.md
+
+[33mcommit d08ff2f46489e7f2d81a285d3767b2032d0cd3bf[m
+Merge: 09f18e8 91da4a9
+Author: Aleksandra Bošković <sandraboskovic@hotmail.com>
+Date:   Tue Sep 13 16:36:50 2022 +0200
+
+    Merge pull request #1481 from ironhack-labs/uros/update-use-figma
+    
+    Update lab to match Slack's website
+
+[33mcommit 91da4a97b4300863ba9c9a0140bc0cab7576d296[m
+Author: Uros Cirkovic <cirkovic.uros.srb@gmail.com>
+Date:   Thu Sep 8 18:11:25 2022 +0200
+
+    Update README.md
+
+[33mcommit d9495a8791be08766ff7cd61b0a747127e5a5ab9[m
+Author: Uros Cirkovic <cirkovic.uros.srb@gmail.com>
+Date:   Thu Sep 8 18:00:21 2022 +0200
+
+    Update README.md
+
+[33mcommit 6bc5dc86a715e37585375b2abd964ef52cc45345[m
+Author: ross-u <cirkovic.uros.srb@gmail.com>
+Date:   Thu Sep 8 17:41:44 2022 +0200
+
+    Update lab instructions
+
+[33mcommit 2e0e8f808d219b2fb4d322a967e4e23f5952d44e[m
+Author: ross-u <cirkovic.uros.srb@gmail.com>
+Date:   Thu Sep 8 10:56:47 2022 +0200
+
+    Update stylesheet
+
+[33mcommit afd8512d9974e05d0a24e2c8161c24e5cffc4e7d[m
+Author: ross-u <cirkovic.uros.srb@gmail.com>
+Date:   Thu Sep 8 10:56:22 2022 +0200
+
+    Update index.html
+
+[33mcommit 019ff08b556d7cb780d79ccfe7d950f5db810a0e[m
+Author: ross-u <cirkovic.uros.srb@gmail.com>
+Date:   Thu Sep 8 10:55:50 2022 +0200
+
+    Add favicon
+
+[33mcommit 496608a906caf34223f52f24c4b92c09e0de7df3[m
+Author: ross-u <cirkovic.uros.srb@gmail.com>
+Date:   Thu Sep 8 10:51:54 2022 +0200
+
+    Add new images
+
+[33mcommit 09f18e82a4230296ce4a2c33a729d3db15199f27[m
+Author: sandrabosk <sandraboskovic@hotmail.com>
+Date:   Tue Jan 21 16:19:44 2020 -0500
+
+    update fontawesome link
+
+[33mcommit 7e4e6b6d58c45073197c4260c31cb65f9d8c01a9[m
+Author: sandrabosk <sandraboskovic@hotmail.com>
+Date:   Tue Dec 17 10:00:30 2019 -0500
+
+    add stale bot
+
+[33mcommit bf155f085cf6837f80026728585092c646440a13[m
+Merge: 9e00e97 1230a22
+Author: Aleksandra Boskovic <sandraboskovic@hotmail.com>
+Date:   Thu Jan 24 16:27:40 2019 -0500
+
+    Merge pull request #557 from sandrabosk/master
+    
+    typo fix
+
+[33mcommit 1230a22963c39835bdd4d87ad4ce756f57b914ea[m
+Author: sandrabosk <sandraboskovic@hotmail.com>
+Date:   Thu Jan 24 16:27:10 2019 -0500
+
+    typo fix
+
+[33mcommit 9e00e97b2373358e9493b233f50c89507efd69b9[m
+Author: Victor Arza <papu.arza@gmail.com>
+Date:   Thu Nov 23 16:50:18 2017 +0100
+
+    readme changes, new instructions, mobile first
+
+[33mcommit 2a17c5b0b77b9bc259b642d2042f9ad5c8e733ea[m
+Author: Victor Arza <papu.arza@gmail.com>
+Date:   Wed Oct 18 15:36:49 2017 +0200
+
+    readme added
